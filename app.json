@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "react-native-paper-example_v5",
+    "slug": "snack-424deb1e-c7f5-42ac-a718-23e358ff19b2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      [
+        "expo-document-picker",
+        {
+          "iCloudContainerEnvironment": "Development"
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    }
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "permissions": [ "CAMERA", "WRITE_EXTERNAL_STORAGE", "READ_EXTERNAL_STORAGE", "MANAGE_EXTERNAL_STORAGE"]
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "description": "callstack/react-native-paper/v5"
+}

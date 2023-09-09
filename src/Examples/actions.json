@@ -1,0 +1,54 @@
+{
+	"INCREASE_REPO_RATES": {
+		"message": "Increase in Repo rate by RBI",
+		"action": [
+			{
+				"actionName": "Increase Large Cap Funds Coverage",
+				"description": "Large Cap Funds are known to have better stability"
+			},
+			{
+				"actionName": "Decrease down on Small Cap Funds",
+				"description": "Small Cap Funds are volatile and debt riden"
+			}
+		]
+	},
+	"INCREASE_IN_SLAB_BRACKET": {
+		"message": "Your Tax Brackets have been changed, you may need to save on Taxes",
+		"action": [
+			{
+				"actionName": "Invest in ELSS Funds",
+				"description": "As per 80C, you are eligible for 50k deductions"
+			},
+			{
+				"actionName": "Invest in NPS",
+				"description": "National Pension Scheme to the rescue"
+			}
+		]
+	},
+	"HOME_LOAN_ACTION": {
+		"message": "Home Loans, do come with many rebalancing strategies ",
+		"action": [
+			{
+				"actionName": "Replace Nippon ELSS fund with Canara Robeco",
+				"description": "Your deductions via Loan interest have increased, decreasing your gross income."
+			},
+			{
+				"actionName": "Down Payment Friendly Funds",
+				"description": "Do invest in Fixed deposits, that helps you cut down the down payments risk free"
+			}
+		]
+	},
+	"CAR_LOAN_ACTION": {
+		"message": "Car Loans, have you considered Accident Policy? ",
+		"action": [
+			{
+				"actionName": "Anti theft and Accident Pocily Cover",
+				"description": "Cover you new happines with anti theft policy and accident cover for your loved once."
+			},
+			{
+				"actionName": "Term Life Insurance cover",
+				"description": "Term life insurance, stay tension free"
+			}
+		]
+	}
+}

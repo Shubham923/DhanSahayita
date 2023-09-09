@@ -1,0 +1,216 @@
+{
+    "mutual_funds":
+    [
+        {
+            "name": "Mirae Asset Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Blue Chip Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Parag Parikh Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Canara Robeco Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Kotak Small Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "TATA Small Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Quant Mid Cap Mutual Funds",
+            "type": "MID_CAP",
+            "tags":
+            [
+                "MEDIUM_RISK"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "Nippon India Growth Funds",
+            "type": "MID_CAP",
+            "tags":
+            [
+                "MEDIUM_RISK"
+            ],
+            "returns": 12
+        }
+    ],
+    "stocks":
+    [
+        {
+            "name": "Adani Green",
+            "type": "Energy",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "Energy"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "GAIL",
+            "type": "Energy",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "Energy"
+            ],
+            "returns": 12
+        },
+        {
+            "name": "JSW Energy",
+            "type": "Energy",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "Energy"
+            ],
+            "returns": 14
+        },
+        {
+            "name": "Infosys",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "returns": 14
+        },
+        {
+            "name": "Wipro",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "returns": 14
+        },
+        {
+            "name": "MindTree",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "returns": 14
+        },
+        {
+            "name": "Network18",
+            "type": "MEDIA",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "MEDIA"
+            ],
+            "returns": 14
+        },
+        {
+            "name": "Sun TV",
+            "type": "MEDIA",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "MEDIA"
+            ],
+            "returns": 14
+        }
+    ],
+    "FD":
+    [
+        {
+            "name": "Kotak Bank",
+            "type": "FD",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "LOW_RETURN"
+            ],
+            "returns": 5
+        },
+        {
+            "name": "ICICI Bank",
+            "type": "FD",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "LOW_RETURN"
+            ],
+            "returns": 5
+        }
+    ],
+    "emerency_funds":
+    [
+        {
+            "name": "ICICI Liquid Fund",
+            "type": "emerency_funds",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "emerency_funds",
+                "MEDIUM_RETURNS"
+            ],
+            "returns": 6
+        },
+        {
+            "name": "ICICI Bank",
+            "type": "emerency_funds",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "emerency_funds",
+                "HIGH_RETURNS"
+            ],
+            "returns": 6
+        }
+    ]
+}

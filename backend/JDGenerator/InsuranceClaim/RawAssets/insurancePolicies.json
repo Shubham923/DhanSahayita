@@ -1,0 +1,177 @@
+[
+    {
+        "type" : "insurance_policies",
+        "masked_account_number": "XXXXXXX123",
+        "link_ref_number": "123456789",
+        "profile": {
+          "holders": {
+            "holder": [
+              {
+                "ckycCompliance": "true",
+                "dob": "24-07-1980",
+                "email": "sairajsawant30@gmail.com",
+                "mobile": "8308171711",
+                "name": "Sairaj Sawant",
+                "nominee": "REGISTERED",
+                "pan": "BYHPL1234T",
+                "rank": "1"
+              }
+            ],
+            "type": "JOINT"
+          },
+          "riders": {
+            "rider": [
+              {
+                "policyEndDate": "12-03-2033",
+                "policyStartDate": "12-03-2021",
+                "premiumAmount": "1600000",
+                "riderType": "Waiver of premium",
+                "sumAssured": "1500000",
+                "tenureMonths": "144",
+                "tenureYears": "12"
+              }
+            ]
+          }
+        },
+        "summary": {
+          "contractClauses": {
+            "contractClause": [
+              {
+                "amount": "75000",
+                "conditions": "",
+                "description": "",
+                "exlcusions": "",
+                "subLimit": "",
+                "title": "Children Plan"
+              }
+            ]
+          },
+          "coverAmount": "1300000",
+          "coverType": "BUILDING",
+          "covers": {
+            "cover": [
+              {
+                "amount": "120000",
+                "description": ""
+              }
+            ]
+          },
+          "eiaNumber": "TY67HG5THL",
+          "maturityBenefit": "",
+          "maturityDate": "2004-04-12",
+          "moneyBacks": {
+            "moneyBack": [
+              {
+                "amount": "1000",
+                "date": "12-03-28",
+                "description": ""
+              }
+            ]
+          },
+          "policyName": "APNA Life Insurance",
+          "policyNumber": "APNI789008",
+          "policyStartDate": "12-03-2021",
+          "policyType": "CHILDREN_PLAN",
+          "premiumAmount": "1600000",
+          "premiumFrequency": "HALF_YEARLY",
+          "premiumPaymentMonths": "24",
+          "premiumPaymentYears": "2",
+          "sumAssured": "1500000",
+          "tenureMonths": "144",
+          "tenureYears": "12"
+        },
+        "transactions": {
+          "endDate": "",
+          "startDate": "",
+          "transaction": [
+            {
+              "amount": "5000",
+              "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+              "txnDate": "2021-05-09T18:33:56+05:30",
+              "txnId": "M69761383",
+              "type": "BONUS"
+            }
+          ]
+        }
+      },
+      {
+        "type" : "ulip",
+        "masked_account_number": "XXXXXXX123",
+        "link_ref_number": "123456789",
+        "profile": {
+          "holders": {
+            "type": "JOINT",
+            "holder": {
+              "ckycCompliance": "true",
+              "dob": "24-07-1980",
+              "email": "shubham.34@gmail.com",
+              "mobile": "91729391923",
+              "name": "Shubham",
+              "nominee": "REGISTERED",
+              "pan": "BYHPL1234T",
+              "dematId": "A8SD39DSD"
+            }
+          },
+          "riders": {
+            "rider": {
+              "riderType": "Waiver of premium",
+              "sumAssured": "1000",
+              "tenureYears": "2",
+              "tenureMonths": "24",
+              "policyStartDate": "2021-01-12",
+              "policyEndDate": "2023-01-12",
+              "premiumAmount": "200000",
+              "description": ""
+            }
+          }
+        },
+        "summary": {
+          "type": "HEALTH",
+          "productName": "HEALTH INSURANCE",
+          "productDescription": "",
+          "sumAssured": "209000",
+          "tenureYears": "2",
+          "tenureMonths": "24",
+          "premiumAmount": "100",
+          "policyStartDate": "2021-01-12",
+          "policyMaturityDate": "2023-01-12",
+          "premiumFrequency": "HALF_YEARLY",
+          "premiumPaymentYears": "1",
+          "premiumPaymentMonths": "12",
+          "nextPremiumDueDate": "2021-01-12",
+          "holdings": {
+            "holding": {
+              "name": "APNA Insurance",
+              "type": "BALANCED",
+              "units": "2",
+              "cost": "200",
+              "nav": "",
+              "allocationPercentage": "4",
+              "premiumAllocation": "5",
+              "currentValue": "2090",
+              "description": ""
+            }
+          }
+        },
+        "transactions": {
+          "endDate": "",
+          "startDate": "",
+          "transaction": [
+            {
+              "txnDate": "2021-01-09T18:33:56+05:30",
+              "txnId": "M69761383",
+              "fundName": "",
+              "units": "2",
+              "nav": "10",
+              "navDate": "2021-04-12",
+              "cost": "1000",
+              "premium": "200",
+              "premiumAllocationCharge": "20",
+              "otherCharges": "10",
+              "type": "CHANGES_IN_MATURITY_DATE",
+              "narration": ""
+            }
+          ]
+        }
+      }
+]

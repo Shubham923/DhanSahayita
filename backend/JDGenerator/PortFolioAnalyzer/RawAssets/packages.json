@@ -1,0 +1,258 @@
+{
+    "mutual_funds":
+    [
+        {
+            "name": "Mirae Asset Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "id": "MF101",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Blue Chip Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "id": "MF102",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Parag Parikh Mutual Funds",
+            "type": "LARGE_CAP",
+            "tags":
+            [
+                "LOW_RISK"
+            ],
+            "id": "MF103",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Canara Robeco Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK"
+            ],
+            "id": "MF104",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Kotak Small Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK"
+            ],
+            "id": "MF105",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "TATA Small Mutual Funds",
+            "type": "SMALL_CAP",
+            "tags":
+            [
+                "HIGH_RISK",
+                "SMALL_CAP"
+            ],
+            "id": "MF106",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Quant Mid Cap Mutual Funds",
+            "type": "MID_CAP",
+            "tags":
+            [
+                "MEDIUM_RISK"
+            ],
+            "id": "MF107",
+            "selfType": "mutual_funds",
+            "returns": 12
+        },
+        {
+            "name": "Nippon India Growth Funds",
+            "type": "MID_CAP",
+            "tags":
+            [
+                "MEDIUM_RISK",
+                "MEDIUM_CAP"
+            ],
+            "id": "MF108",
+            "selfType": "mutual_funds",
+            "returns": 12
+        }
+    ],
+    "stocks":
+    [
+        {
+            "name": "Adani Power",
+            "type": "ENERGY",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "ENERGY"
+            ],
+            "id": "ST102",
+            "selfType": "stocks",
+            "returns": 12
+        },
+        {
+            "name": "Bharat Petrolium",
+            "type": "ENERGY",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "ENERGY"
+            ],
+            "id": "ST103",            
+            "selfType": "stocks",
+            "returns": 12
+        },
+        {
+            "name": "JSW Energy",
+            "type": "ENERGY",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "ENERGY"
+            ],
+            "id": "ST101",
+            "selfType": "stocks",
+            "returns": 14
+        },
+        {
+            "name": "Infosys",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "id": "ST108",
+            "selfType": "stocks",
+            "returns": 14
+        },
+        {
+            "name": "Wipro",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "id": "ST107",
+            "selfType": "stocks",
+            "returns": 14
+        },
+        {
+            "name": "MindTree",
+            "type": "IT",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "IT"
+            ],
+            "id": "ST106",
+            "selfType": "stocks",
+            "returns": 14
+        },
+        {
+            "name": "Network18",
+            "type": "MEDIA",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "MEDIA"
+            ],
+            "id": "ST104",
+            "selfType": "stocks",
+            "returns": 14
+        },
+        {
+            "name": "Sun TV",
+            "type": "MEDIA",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "MEDIA"
+            ],
+            "id": "ST105",
+            "selfType": "stocks",
+            "returns": 14
+        }
+    ],
+    "FD":
+    [
+        {
+            "name": "Kotak Bank Fixed Deposits",
+            "type": "FD",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "LOW_RETURN"
+            ],
+            "id": "FD101",
+            "selfType": "FD",
+            "returns": 5
+        },
+        {
+            "name": "ICICI Bank Fixed Deposits",
+            "type": "FD",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "LOW_RETURN"
+            ],
+            "id": "FD102",
+            "selfType": "FD",
+            "returns": 5
+        }
+    ],
+    "emerency_funds":
+    [
+        {
+            "name": "ICICI Liquid Fund",
+            "type": "emerency_funds",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "emerency_funds",
+                "MEDIUM_RETURNS"
+            ],
+            "id": "EF101",
+            "selfType": "emerency_funds",
+            "returns": 6
+        },
+        {
+            "name": "ICICI Bank Emergency Liquid Fund",
+            "type": "emerency_funds",
+            "stockType": "ELSS",
+            "tags":
+            [
+                "FD",
+                "LOW_RISK",
+                "emerency_funds",
+                "HIGH_RETURNS"
+            ],
+            "id": "EF102",
+            "selfType": "emerency_funds",
+            "returns": 6
+        }
+    ]
+}
